@@ -166,6 +166,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Acacha\Wizard\Providers\WizardServiceProvider::class,
 
         //
 

@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "589755bacc0140317b455d33d1e4eb10",
-    "content-hash": "adc8e08a0c47d9c8f32adceef0db28e5",
+    "hash": "78d4f0399d897eb1a36b813b64b6e7e2",
+    "content-hash": "c7f953d3881221a7639b066670039dd8",
     "packages": [
         {
             "name": "acacha/admin-lte-template-laravel",
@@ -115,6 +115,35 @@
                 "user"
             ],
             "time": "2016-09-13 11:59:21"
+        },
+        {
+            "name": "acacha/wizard",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "/home/sergi/Code/acacha/wizard",
+                "reference": "11703d1f97dd7f9f02c05b24f31693fedb65a2b9",
+                "shasum": null
+            },
+            "require": {
+                "laravel/framework": "^5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Acacha\\Wizard\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sergi Tur Badenas",
+                    "email": "sergiturbadenas@gmail.com"
+                }
+            ],
+            "description": "Multi-step wizard forms for Laravel"
         },
         {
             "name": "barryvdh/laravel-debugbar",
@@ -3880,7 +3909,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "acacha/admin-lte-template-laravel": 20
+        "acacha/admin-lte-template-laravel": 20,
+        "acacha/wizard": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
