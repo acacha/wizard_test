@@ -15,6 +15,8 @@ require('./bootstrap');
 
 Vue.component('example', require('./components/Example.vue'));
 
+Vue.component('acacha-wizard', require('./components/acacha-wizard/Wizard.vue'));
+
 const app = new Vue({
     el: '#app'
 });

@@ -38,6 +38,10 @@ acorn@4.X:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.3.tgz#1a3e850b428e73ba6b09d1cc527f5aaad4d03ef1"
 
+admin-lte@^2.3.6:
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/admin-lte/-/admin-lte-2.3.7.tgz#91236949631d5da0099f3f29e103814eeb493326"
+
 align-text@^0.1.1, align-text@^0.1.3:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/align-text/-/align-text-0.1.4.tgz#0cd90a561093f35d0a99256c22b7069433fad117"
@@ -294,6 +298,10 @@ boom@2.x.x:
   resolved "https://registry.yarnpkg.com/boom/-/boom-2.10.1.tgz#39c8918ceff5799f83f9492a848f625add0c766f"
   dependencies:
     hoek "2.x.x"
+
+bootstrap-less@^3.3.8:
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/bootstrap-less/-/bootstrap-less-3.3.8.tgz#71f29dd5a7fffedfe89f1605bbadfe0a338dae53"
 
 bootstrap-sass@^3.3.7:
   version "3.3.7"
@@ -648,7 +656,7 @@ constants-browserify@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/constants-browserify/-/constants-browserify-0.0.1.tgz#92577db527ba6c4cf0a4568d84bc031f441e21f2"
 
-convert-source-map@1.X, convert-source-map@1.x:
+convert-source-map@1.x, convert-source-map@1.X:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.3.0.tgz#e9f3e9c6e2728efc2676696a70eb382f73106a67"
 
@@ -1177,6 +1185,10 @@ fobject@0.0.4:
     graceful-fs "^4.1.3"
     semver "^5.1.0"
     when "^3.7.7"
+
+font-awesome@^4.6.3:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133"
 
 for-in@^0.1.5:
   version "0.1.6"
@@ -1722,6 +1734,10 @@ https-browserify@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-0.0.1.tgz#3f91365cabe60b77ed0ebba24b454e3e09d95a82"
 
+icheck@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/icheck/-/icheck-1.0.2.tgz#06d08da3d47ae448c153b2639b86e9ad7fdf7128"
+
 icss-replace-symbols@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/icss-replace-symbols/-/icss-replace-symbols-1.0.2.tgz#cb0b6054eb3af6edc9ab1d62d01933e2d4c8bfa5"
@@ -1790,6 +1806,10 @@ interpret@^1.0.0:
 invert-kv@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/invert-kv/-/invert-kv-1.0.0.tgz#104a8e4aaca6d3d8cd157a8ef8bfab2d7a3ffdb6"
+
+ionicons@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-3.0.0.tgz#40b8daf4fd7a31150bd002160f66496e22a98c3c"
 
 is-absolute-url@^2.0.0:
   version "2.0.0"
@@ -2049,7 +2069,7 @@ laravel-elixir-webpack-official@^1.0.2:
     webpack "2.1.0-beta.15 - 2.1.0-beta.22"
     webpack-stream "github:jeroennoten/webpack-stream#patch-1"
 
-laravel-elixir@^6.0.0-11:
+laravel-elixir@^6.0.0-9:
   version "6.0.0-11"
   resolved "https://registry.yarnpkg.com/laravel-elixir/-/laravel-elixir-6.0.0-11.tgz#107c6be07d2e8f10612bf656d7ded51355a8f59b"
   dependencies:
@@ -3853,6 +3873,10 @@ timers-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/timers-browserify/-/timers-browserify-1.4.2.tgz#c9c58b575be8407375cb5e2462dacee74359f41d"
   dependencies:
     process "~0.11.0"
+
+toastr@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/toastr/-/toastr-2.1.2.tgz#fd69066ae7578a5b3357725fc9c7c335e9b681df"
 
 tough-cookie@~2.3.0:
   version "2.3.2"
